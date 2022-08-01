@@ -1,0 +1,11 @@
+body {
+    background-size: cover;
+    background-position: center;
+    }
+
+button{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:brown;
+    margin: 20px;
+}
